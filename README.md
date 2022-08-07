@@ -1,4 +1,4 @@
-# Flappy Bird 2D
+# Flappy Bird 2D 🐤💨
 
 My first game creation in Unity.
 
